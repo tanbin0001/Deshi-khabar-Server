@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1001,
+    "chef_name": "Chef Tony",
+    "picture": "https://files.catbox.moe/afoopw.jpg",
+    "years_of_experience": 8,
+    "num_recipes": 30,
+    "likes": 5000
+  },
+  {
+    "id": 1002,
+    "chef_name": "Chef Asad Latif",
+    "picture": "https://files.catbox.moe/n10b6m.jpg",
+    "years_of_experience": 12,
+    "num_recipes": 75,
+    "likes": 15000
+  },
+  {
+    "id": 1003,
+    "chef_name": "Chef Kabir",
+    "picture": "https://files.catbox.moe/1c1ouv.jpg",
+    "years_of_experience": 5,
+    "num_recipes": 20,
+    "likes": 2000
+  },
+  {
+    "id": 1004,
+    "chef_name": "Chef Mr Tonmay Khan",
+    "picture": "https://files.catbox.moe/kk8l67.jpg",
+    "years_of_experience": 15,
+    "num_recipes": 100,
+    "likes": 25000
+  },
+  {
+    "id": 1005,
+    "chef_name": "Chef Ahmed Hossain",
+    "picture": "https://files.catbox.moe/cpv2pg.jpg",
+    "years_of_experience": 7,
+    "num_recipes": 50,
+    "likes": 8000
+  },
+  {
+    "id": 1006,
+    "chef_name": "Chef Fakruddin",
+    "picture": "https://files.catbox.moe/4tbof2.jpg",
+    "years_of_experience": 3,
+    "num_recipes": 15,
+    "likes": 1000
+  }
+]
